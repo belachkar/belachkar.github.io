@@ -1,6 +1,6 @@
 {
   "name": "profile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -18,8 +18,14 @@
     "@angular/forms": "~7.2.0",
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
+    "@angular/pwa": "^0.13.9",
     "@angular/router": "~7.2.0",
+    "@angular/service-worker": "^7.2.15",
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"

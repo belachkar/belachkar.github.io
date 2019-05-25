@@ -1,0 +1,44 @@
+/*
+* Here you can custom the bootstrap variables
+* 1st Import the variables from _variables.scss
+* 2nd import that file to your scss file.
+*/
+
+///////// Custom ////////////
+//$main-color: #1a8c97; 
+//$main-color: #008c99;
+$new-green: #0bb389;
+$new-light-green: #1fd1a5;
+$new-orange:  #fd7e14;
+$new-purple: #a752ec; 
+
+$primary: $new-green;
+// $secondary:     $gray-600;
+// $success:       $green;
+// $info:          $cyan;
+// $warning:       $yellow;
+// $danger:        $red;
+$light: $new-green;
+// $dark:          $gray-800;
+
+// Cards
+
+$card-spacer-y: .1rem;
+// $card-spacer-x:                     1.25rem !default;
+// $card-border-width:                 $border-width !default;
+// $card-border-radius:                $border-radius !default;
+// $card-border-color:                 rgba($black, .125) !default;
+// $card-inner-border-radius:          calc(#{$card-border-radius} - #{$card-border-width}) !default;
+$card-cap-bg: $new-light-green;  //rgba($black, .03) !default;
+// $card-bg:                           $white !default;
+
+// $card-img-overlay-padding:          1.25rem !default;
+
+// $card-group-margin:                 ($grid-gutter-width / 2) !default;
+// $card-deck-margin:                  $card-group-margin !default;
+
+// $card-columns-count:                3 !default;
+// $card-columns-gap:                  1.25rem !default;
+// $card-columns-margin:               $card-spacer-y !default;
+
+////////// END CUSTOM //////////
